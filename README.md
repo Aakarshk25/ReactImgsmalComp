@@ -1,0 +1,2 @@
+# ReactImgsmalComp
+Created with CodeSandbox
